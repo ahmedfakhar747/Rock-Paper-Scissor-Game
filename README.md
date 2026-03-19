@@ -1,5 +1,11 @@
 # 🎮 Rock Paper Scissors (C)
 
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Stars](https://img.shields.io/github/stars/ahmedfakhar747/Rock-Paper-Scissor-Game?style=social)
+
+
 A simple and interactive **Rock Paper Scissors game** built in C.
 
 Play against the computer in a 3-round match with a clean command-line interface.
